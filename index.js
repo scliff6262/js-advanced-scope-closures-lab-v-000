@@ -14,3 +14,10 @@ function produceTipCalculator(p){
     return p * bill
   }
 }
+
+function createDriver(){
+  let driverId = 0
+  class {
+    this.id = ++driverId
+  }
+}
