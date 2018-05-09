@@ -8,3 +8,9 @@ function produceDrivingRange(blocks){
     }
   }
 }
+
+function produceTipCalculator(p){
+  return function(){
+
+  }
+}
